@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="MioFont">
+        <normal><![CDATA[fonts/open-sans-condensed/OpenSansCondensed-Light.ttf]]></normal>
+        <bold><![CDATA[fonts/open-sans-condensed/OpenSansCondensed-Bold.ttf]]></bold>
+        <italic><![CDATA[fonts/open-sans-condensed/OpenSansCondensed-LightItalic.ttf]]></italic>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+</fontFamilies>
